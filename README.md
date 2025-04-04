@@ -2,7 +2,7 @@
 Welcome to the Movie Recommender System! This project is a simple web application built using Streamlit that recommends movies similar to the one selected by the user. It utilizes cosine similarity to suggest movies based on their descriptions and genres.
 
 # Demo
-![Demo Prediction](https://github.com/Taranshah9/MovieRecommenderSystem/blob/main/demo.png)
+![Demo Prediction](https://github.com/jeel-coder/MovieRecommender/blob/master/demo.png)
 
 
 # Features
